@@ -26,7 +26,7 @@ In this second module, you will learn various flavors of NoSQL database products
 ## Module 3: Main Django Application
 In the third module, you will get hands-on practice creating a Django application and connecting it to services. You will be asked to create a data model and use the Django migration tool to create the tables and relationships. You will then create controllers to implement business logic to send the appropriate data to the provided templates.
 
-- *My Django application for this module can be found in the repo: [Back-End-Development-Capstone](https://github.com/c85/Back-End-Development-Capstone)*
+- **My Django application for this module can be found in the repo: [Back-End-Development-Capstone](https://github.com/c85/Back-End-Development-Capstone)**
 
 ## Module 4: Deploy your application and services
 In Module 4, you will deploy your application and services using Code Engine, OpenShift, and Kubernetes. You will first learn about IBM Cloud code engine and how it helps in deployment of your applications. You will create a DockerFile for the Pictures and deploy it to IBM code engine. You will create a second DockerFile for the Songs microservice and deploy it to an OpenShift cluster. You will learn how to push the docker images for the microservices to IBM Container Registry. Finally, you will deploy the main application to IBM Kubernetes Service using YAML deployment files.
